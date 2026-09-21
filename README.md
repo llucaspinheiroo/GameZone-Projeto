@@ -39,6 +39,5 @@ GameZone-Retro/
 O objetivo do projeto é praticar a criação de páginas web utilizando HTML, trabalhando com títulos, parágrafos, tabelas, listas e imagens.
 
 ## 👨‍💻 Lucas Pinheiro 
-
-**Lucas Pinheiro**  
 **SENAI — Turma 1IF-DS**
+
